@@ -142,3 +142,6 @@ node.json
 
 # protostar
 .protostar_cache
+
+cairo/
+target/
